@@ -22,8 +22,7 @@ SimulaBancoJAVA é um projeto educacional desenvolvido em Java que simula um sis
  - Interface em modo texto via terminal.
 
 ## Contribuidores
-(Z-Hugo-Ferraz)[https://github.com/Z-Hugo-Ferraz]
+[Z-Hugo-Ferraz](https://github.com/Z-Hugo-Ferraz)
 
-(tigasparzin)[https://github.com/tigasparzin]
-
-(alexandremartinelli11)[https://github.com/alexandremartinelli11]
+[tigasparzin](https://github.com/tigasparzin)
+[alexandremartinelli11](https://github.com/alexandremartinelli11)
